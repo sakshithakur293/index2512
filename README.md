@@ -1,1 +1,2 @@
-# index2512
+# boot-pro
+This is a bootstrap Deshboard project.
